@@ -8,7 +8,6 @@
 
 ## Manual UI Extraction:
 
-- Verizonmedia  
 - Adcash  
 - AdsKeeper  
 - Match2One  
@@ -25,6 +24,6 @@
 
 ## DE workflow:
 
-- TradingView (Done)  
-- VerizonMedia (Done)  
-- Match2One (Pending)  
+- TradingView 
+- VerizonMedia  
+  
