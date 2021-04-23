@@ -1,29 +1,29 @@
 ## List of Platform
 ### PPC Main
 
-Adroll  
-Facebook  
-Bing  
-Verizonmedia  
+- Adroll  
+- Facebook  
+- Bing  
+- Verizonmedia  
 
 ### Paid Partnership
 
-Skrill  
-Tradeon  
-InvestingDotCom  
+- Skrill  
+- Tradeon  
+- InvestingDotCom  
 
 ### PPC Experiment
 
-Adcash  
-AdsKeeper  
-Match2One  
-SmartyAds  
+- Adcash  
+- AdsKeeper  
+- Match2One  
+- SmartyAds  
 
 ### Paid Influencer
 
-Zorka  
+- Zorka  
 
 ### Paid Direct Traffic
 
-DailyPost  
-Punchng  
+- DailyPost  
+- Punchng  
