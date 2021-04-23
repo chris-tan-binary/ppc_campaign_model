@@ -10,7 +10,8 @@
 
 - Skrill  
 - Tradeon  
-- InvestingDotCom  
+- InvestingDotCom
+- TradingView  
 
 ### PPC Experiment
 
