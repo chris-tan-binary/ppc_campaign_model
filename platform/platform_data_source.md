@@ -26,4 +26,3 @@
 
 - TradingView 
 - VerizonMedia  
-  
